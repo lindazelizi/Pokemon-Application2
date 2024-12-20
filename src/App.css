@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+.container {
+  background-color: #94327b;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.navbar {
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  background-color: rgb(96, 20, 190);
+  
+}
